@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 # [](#header-1)Mathematics
 [Real-life Linear Algebra](another-page)
 * * *

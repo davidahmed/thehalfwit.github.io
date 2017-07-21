@@ -4,7 +4,7 @@ title: Home
 ---
 
 # [](#header-1)Mathematics
-[Real-life Linear Algebra](another-page)
+[Real-life Linear Algebra](real-life-linear-algebra/index)
 * * *
 
 # [](#header-1)Finance

@@ -15,6 +15,7 @@ title: Home
 [Real-life Linear Algebra 1 ✔](real-life-linear-algebra/index)    
 [Real-life Linear Algebra 2 ✗](real-life-linear-algebra/index)    
 * * *
+
 # [](#header-1)Biology
 [Body Composition, Diet, and Exercise ✗]()
 * * *

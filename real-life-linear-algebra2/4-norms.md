@@ -1,12 +1,9 @@
 ---
 layout: default
 ---
-{% include mathjax.html %}
 {% include subpage-nav.html %}
-# Norm and Distances
-### Euclidean Norm
-Euclidean norm of a vector <span>$ v $</span> 
 
+# Norm and Distances
 step to data mining. a model to glean in to life. 2nd algorithm to read handwritings.
 * compute euclidean norms on vectors.
 * to compute a taxicab (distance becomes norm) on vectors. u-v

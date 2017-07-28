@@ -13,7 +13,7 @@ title: Home
 [Information Theory ✗](real-life-linear-algebra/index)    
 [Foundational Mathematics ✗]()    
 [Real-life Linear Algebra 1 ✔](real-life-linear-algebra/index)    
-[Real-life Linear Algebra 2 ✗](real-life-linear-algebra/index)    
+[Real-life Linear Algebra 2 ✔](real-life-linear-algebra/index)    
 * * *
 
 # [](#header-1)Biology
